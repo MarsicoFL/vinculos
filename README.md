@@ -1,6 +1,6 @@
+<img width="192" height="192" alt="Icon-192" src="https://github.com/user-attachments/assets/ade16b86-68e4-4f47-95f7-c497dcaff357" />
 # Vínculos - Kinship Score Calculator
 
-<img width="192" height="192" alt="Icon-192" src="https://github.com/user-attachments/assets/ade16b86-68e4-4f47-95f7-c497dcaff357" />
 
 Web application for prioritizing family reference samples in missing person identification through DNA analysis.
 
