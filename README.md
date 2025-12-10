@@ -8,7 +8,7 @@ Web application for prioritizing family reference samples in missing person iden
 
 - Web: [vinculosgen.com](https://vinculosgen.com)
 - Mobile: PWA for Android and iOS
-- DOI: [10.5281/zenodo.14684007](https://zenodo.org/records/14684007)
+- DOI: [https://zenodo.org/records/14261194](https://zenodo.org/records/14261194)
 
 ## Description
 
