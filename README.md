@@ -58,8 +58,6 @@ class KinshipCalculator {
 ## Authors
 
 - Franco Marsico (Universidad de Buenos Aires)
-- Inés Caridi (Universidad de Buenos Aires)  
-- Carlos Vullo (Equipo Argentino de Antropología Forense)
 
 ## License
 
@@ -67,18 +65,12 @@ Copyright (c) 2024 Franco Marsico
 
 This software is proprietary and confidential. All rights reserved.
 
-**Restricted Use License**
+**Use**
 
-Permission is hereby granted to use this software solely for:
+The sofware is openly available for:
 - Academic research in forensic genetics
 - Humanitarian missing person identification efforts
 - Non-commercial educational purposes
-
-The following restrictions apply:
-1. No commercial use without explicit written permission
-2. No creation of derivative works
-3. Attribution required in all publications using this tool
-4. No warranty or liability accepted by authors
 
 For any question, contact the author at franco.lmarsico@gmail.com
 
