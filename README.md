@@ -14,17 +14,6 @@ Web application for prioritizing family reference samples in missing person iden
 
 Vínculos calculates a kinship score that predicts the expected Likelihood Ratio (LR) when comparing genetic profiles using autosomal STR markers. The scoring system shows high correlation expected LR.
 
-## Score Table
-
-| Relationship | 15 STRs | 22 STRs |
-|-------------|---------|---------|
-| Parent | 6.18 | 10 |
-| Sibling | 3.41 | 5 |
-| Child | 6.18 | 10 |
-| Uncle/Aunt | 1.02 | 1.5 |
-| Half-sibling | 1.02 | 1.5 |
-| Grandchild | 1.02 | 1.5 |
-
 ## Algorithm Schema
 
 ```dart
@@ -52,7 +41,7 @@ class KinshipCalculator {
 
 ## Key Concepts
 
-- **Saturation**: Score ceiling where additional relatives don't improve LR (15 STRs: ~12, 22 STRs: ~20)
+- **Saturation**: Score ceiling where additional relatives don't improve LR.
 - **Redundancy**: Relatives already represented through closer family members are blocked
 
 ## Authors
